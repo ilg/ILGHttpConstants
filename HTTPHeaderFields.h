@@ -39,7 +39,7 @@ FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldReferer;
 FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldTE;
 FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldUserAgent;
 FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldUpgrade;
-FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldVia
+FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldVia;
 FOUNDATION_EXPORT NSString *const kHTTPHeaderFieldWarning;
 
 //Response fields

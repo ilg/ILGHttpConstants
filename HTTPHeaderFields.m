@@ -39,7 +39,7 @@ NSString *const kHTTPHeaderFieldReferer = @"Referer";
 NSString *const kHTTPHeaderFieldTE = @"TE";
 NSString *const kHTTPHeaderFieldUserAgent = @"User-Agent";
 NSString *const kHTTPHeaderFieldUpgrade = @"Upgrade";
-NSString *const kHTTPHeaderFieldVia = @"Via"
+NSString *const kHTTPHeaderFieldVia = @"Via";
 NSString *const kHTTPHeaderFieldWarning = @"Warning";
 
 //Response fields
