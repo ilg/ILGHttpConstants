@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ILGHttpConstants"
-  s.version      = "1.0.1"
+  s.version      = "2.0.0"
   s.summary      = "Constants for HTTP status codes, headers, and method names."
   s.homepage     = "https://github.com/ilg/ILGHttpConstants"
   s.license      = { :type => "MIT", :file => "LICENSE" }
